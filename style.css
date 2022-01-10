@@ -107,7 +107,10 @@ a{
   
    .dropdown-content {
     display: block;
-    display: none;
+
+  }
+  .dropdown-content a:hover {
+      display: none;
   }
 .banner{
     background-color: rgb(169, 248, 209);
