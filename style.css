@@ -107,6 +107,7 @@ a{
   
    .dropdown-content {
     display: block;
+    display: none;
   }
 .banner{
     background-color: rgb(169, 248, 209);
