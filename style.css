@@ -101,6 +101,13 @@ a{
     display: block;
     text-align: left;
   }
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+   .dropdown-content {
+    display: block;
+  }
 .banner{
     background-color: rgb(169, 248, 209);
     height: 2888px;
