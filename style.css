@@ -70,7 +70,7 @@ a{
     top: 0;
     bottom: 0;
     left: -100px;
-    width: 200px;
+    width: 170px;
     background-color: rgba(205, 248, 88, 0.9);
     height: 245px;
 }
@@ -222,9 +222,7 @@ html{
     footer {
         width: 400%;
     }
-    .checkbox{
-        width: 500%;
-    }
+
   }
 @media only screen and (max-width: 860px){
     body{
