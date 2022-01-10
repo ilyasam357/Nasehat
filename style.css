@@ -77,6 +77,7 @@ a{
 .checkbox ul li{
     padding: 20px;
     color: gold;
+    font-size: 23px;
 }
 .checkbox ul li:hover{
     background-color: springgreen;
