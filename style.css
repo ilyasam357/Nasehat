@@ -24,6 +24,7 @@ header h1{
 header ul{
     justify-content: flex-end;
     display: flex;
+    
 }
 header ul li {
     list-style: none;
