@@ -205,9 +205,14 @@ html{
         display: none;
     }
     
-   
-    
 }
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .col1{
+      width: 100%;
+    }
+  }
+  
 @media only screen and (max-width:860px){
     .banner h1{
       width: 390%;
