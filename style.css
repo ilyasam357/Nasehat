@@ -70,7 +70,7 @@ a{
     position: fixed;
     top: 0;
     bottom: 0;
-    right: -100px;
+    left: -100px;
     width: 149px;
     background-color: rgba(205, 248, 88, 0.9);
     height: 245px;
