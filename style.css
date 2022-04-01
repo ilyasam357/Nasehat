@@ -17,7 +17,7 @@ header h1 a:hover{
 }
 header h1{
     display: inline-block;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     float: left;
     
 }
